@@ -1,0 +1,10 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rettangolo azzurro con bordi arrotondati -->
+  <rect width="100%" height="100%" rx="20" ry="20" fill="#007FFF" />
+
+  <!-- Cerchio bianco -->
+  <circle cx="200" cy="100" r="100" fill="#FFFFFF" />
+
+  <!-- Lettera N blu -->
+  <text x="200" y="125" font-family="Arial" font-size="100" fill="#007FFF" text-anchor="middle" dominant-baseline="middle">N</text>
+</svg>
